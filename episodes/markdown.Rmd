@@ -1,5 +1,5 @@
 ---
-title: 'introduction'
+title: 'using r markdown'
 teaching: 10
 exercises: 2
 ---
